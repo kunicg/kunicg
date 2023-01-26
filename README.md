@@ -1,4 +1,4 @@
-![logo](C:\Users\Dell\Downloads\DATA ANALYST KUNICA GUPTA.png)
+![logo](C:\Users\Dell\Downloads)
 <h1 align="center">Hi 👋, I'm Kunica Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
