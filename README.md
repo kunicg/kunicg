@@ -1,4 +1,4 @@
-![logo](https://github.com/kunicg/kunicg/blob/main/DATA%20ANALYST%20KUNICA%20GUPTA.png)
+![logo](C:\Users\Dell\Downloads\DATA ANALYST KUNICA GUPTA.png)
 <h1 align="center">Hi 👋, I'm Kunica Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
