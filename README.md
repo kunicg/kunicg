@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kunica Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0MlbcOSX37uVUTGiu5A7R3&ust=1674806555128000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCWirrj5PwCFQAAAAAdAAAAABAE">
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunicg&label=Profile%20views&color=0e75b6&style=flat" alt="kunicg" /> </p>
 
 - 📫 How to reach me **kunica001@gmail.com**
