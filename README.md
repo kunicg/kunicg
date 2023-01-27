@@ -1,4 +1,5 @@
-![logo](C:\Users\Dell\Downloads)
+![logo](![DATA ANALYST KUNICA GUPTA](https://user-images.githubusercontent.com/123622774/215028675-bddb3e58-0f95-4fed-80de-9d80ff5a5224.png)
+
 <h1 align="center">Hi 👋, I'm Kunica Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
