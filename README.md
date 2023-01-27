@@ -1,5 +1,4 @@
-![logo](![DATA ANALYST KUNICA GUPTA](https://user-images.githubusercontent.com/123622774/215028675-bddb3e58-0f95-4fed-80de-9d80ff5a5224.png)
-
+![logo](![crop](https://user-images.githubusercontent.com/123622774/215030054-62ee00d6-c31a-4ef4-9b5d-d326eebb8b3d.png)
 <h1 align="center">Hi 👋, I'm Kunica Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
